@@ -1,0 +1,356 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [:unimodules-react-native-adapter] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:@react-native-community_async-storage] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-image-picker] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/bb93099efa34475af1fb6ebb758361a6/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/acfd51d370dc6b6162dccfb95e1d0c99/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-app-loader-provider] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-30:12
+MERGED from [:expo-gl] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-gl/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:expo-permissions] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-gl-cpp] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-gl-cpp/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/fb1f5b36899d419f70e5548e110b5eda/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/24d4394b0a6e1356340939db5844cd65/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/000b49aa88a638619a9b9ecd8beeacd0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/29f43955c9e52424688ddf322f71850a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/461e473eaccc4e180ea74ec2da910c03/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/9def0f07fff6591077ed4a5bfa2f5af1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/668b927442dfc471dee0a0210c4f8dee/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/1040eac082c68d8ee9dd32846156e880/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/d378a58951b1121c2c088f0462fbc4bc/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/62ebd636ab9d315b6e5c50eb207708c1/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/1e7681845cbb1617369d5388ffa56df8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/8b1c58dc8675064cb8ce1c7805e5cdb5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/52f332598ff4067b3da45383f465a295/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/06c79c6068184015aa3bc9cc4c2d47fc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/0fd0b05f02df53844c8dbed1898ae4d2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/e4cd5bf4fa86941118bee9feb7c19648/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/20e1b52a3ca06445a4a46dcfc3676ea6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/1633a94e4184b018a898fde773999e38/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/910546654bea377bfde605a2d627d510/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/e195754a2e2dd082282a9240ad72d4dd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/7b3072e865b5d533ce85431e346a3014/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/d23ef2e23affc2dbd35d4ec880b0365d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/8ca60818b8f3bbf80e6c43a6853b402d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/228c6f87f9ccdedd2c4e94ba97b6a80e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/b10880885fe7cceeb8bf469491299083/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/37edacd77ddb0ae1073e730dc32db1df/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/c8ac2a9f63bd9602542841f7a56b0ad6/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/87f2bf72807b00f668ab99d37eace935/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/e922159bdc986255066ef69939d22df8/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/36f57e2d39658ad51826da37df8a1d8f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/284db428ff6ac400327dcc3c45abfb7c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/acd3745d68a423214fb71b722c5ab520/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/8804397b2076e6d0d49cb47ce6c55f92/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/badc233fdf7e5b1885df0c423165a97e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/54fb23af7a5ee324d02af7ed0c1044bc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/4dcda9b0586b55d985ddfc410d44f341/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/c62b79104a3733afd0fa52bbd1d58828/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/030a4c7c627cec3fcddb02f38620100d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/fa6142ae190133fed5a6f3da5d965070/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:2:3-23
+		INJECTED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:2:3-23
+		INJECTED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:expo-file-system] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:6:5-80
+MERGED from [:expo-file-system] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:7:5-81
+MERGED from [:expo-file-system] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:9:5-28:19
+MERGED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:9:5-28:19
+MERGED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:9:5-28:19
+MERGED from [:react-native-image-picker] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/bb93099efa34475af1fb6ebb758361a6/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/bb93099efa34475af1fb6ebb758361a6/AndroidManifest.xml:11:5-20
+MERGED from [:expo-file-system] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/d378a58951b1121c2c088f0462fbc4bc/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/d378a58951b1121c2c088f0462fbc4bc/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/62ebd636ab9d315b6e5c50eb207708c1/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/62ebd636ab9d315b6e5c50eb207708c1/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/37edacd77ddb0ae1073e730dc32db1df/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/37edacd77ddb0ae1073e730dc32db1df/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/c8ac2a9f63bd9602542841f7a56b0ad6/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/c8ac2a9f63bd9602542841f7a56b0ad6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/e922159bdc986255066ef69939d22df8/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/e922159bdc986255066ef69939d22df8/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/37edacd77ddb0ae1073e730dc32db1df/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:11:7-39
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:11:7-39
+	tools:ignore
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:13:7-52
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:13:7-52
+	tools:targetApi
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:12:7-41
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:12:7-41
+	android:allowBackup
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:14:7-34
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:14:7-34
+	android:theme
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:16:7-38
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:16:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:15:7-42
+	android:name
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:10:7-38
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:10:7-38
+activity#com.reader.MainActivity
+ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:17:7-26:18
+	android:label
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:19:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:21:9-51
+	android:configChanges
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:20:9-79
+	android:name
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:18:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:22:9-25:25
+action#android.intent.action.MAIN
+ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:23:13-65
+	android:name
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:23:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:24:13-73
+	android:name
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:24:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:27:7-84
+	android:name
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml:27:17-81
+uses-sdk
+INJECTED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml
+MERGED from [:unimodules-react-native-adapter] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_async-storage] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/bb93099efa34475af1fb6ebb758361a6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/bb93099efa34475af1fb6ebb758361a6/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/acfd51d370dc6b6162dccfb95e1d0c99/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/acfd51d370dc6b6162dccfb95e1d0c99/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-gl] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-gl/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-gl] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-gl/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-gl-cpp] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-gl-cpp/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-gl-cpp] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-gl-cpp/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/fb1f5b36899d419f70e5548e110b5eda/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/fb1f5b36899d419f70e5548e110b5eda/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/24d4394b0a6e1356340939db5844cd65/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/24d4394b0a6e1356340939db5844cd65/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/000b49aa88a638619a9b9ecd8beeacd0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/000b49aa88a638619a9b9ecd8beeacd0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/29f43955c9e52424688ddf322f71850a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/29f43955c9e52424688ddf322f71850a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/461e473eaccc4e180ea74ec2da910c03/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/461e473eaccc4e180ea74ec2da910c03/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/9def0f07fff6591077ed4a5bfa2f5af1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/9def0f07fff6591077ed4a5bfa2f5af1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/668b927442dfc471dee0a0210c4f8dee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/668b927442dfc471dee0a0210c4f8dee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/1040eac082c68d8ee9dd32846156e880/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/1040eac082c68d8ee9dd32846156e880/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/d378a58951b1121c2c088f0462fbc4bc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/d378a58951b1121c2c088f0462fbc4bc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/62ebd636ab9d315b6e5c50eb207708c1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/62ebd636ab9d315b6e5c50eb207708c1/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/1e7681845cbb1617369d5388ffa56df8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/1e7681845cbb1617369d5388ffa56df8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/8b1c58dc8675064cb8ce1c7805e5cdb5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/8b1c58dc8675064cb8ce1c7805e5cdb5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/52f332598ff4067b3da45383f465a295/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/52f332598ff4067b3da45383f465a295/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/06c79c6068184015aa3bc9cc4c2d47fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/06c79c6068184015aa3bc9cc4c2d47fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/0fd0b05f02df53844c8dbed1898ae4d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/0fd0b05f02df53844c8dbed1898ae4d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/e4cd5bf4fa86941118bee9feb7c19648/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/e4cd5bf4fa86941118bee9feb7c19648/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/20e1b52a3ca06445a4a46dcfc3676ea6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/20e1b52a3ca06445a4a46dcfc3676ea6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/1633a94e4184b018a898fde773999e38/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/1633a94e4184b018a898fde773999e38/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/910546654bea377bfde605a2d627d510/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/910546654bea377bfde605a2d627d510/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/e195754a2e2dd082282a9240ad72d4dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/e195754a2e2dd082282a9240ad72d4dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/7b3072e865b5d533ce85431e346a3014/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/7b3072e865b5d533ce85431e346a3014/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/d23ef2e23affc2dbd35d4ec880b0365d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/d23ef2e23affc2dbd35d4ec880b0365d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/8ca60818b8f3bbf80e6c43a6853b402d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/8ca60818b8f3bbf80e6c43a6853b402d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/228c6f87f9ccdedd2c4e94ba97b6a80e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/228c6f87f9ccdedd2c4e94ba97b6a80e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/b10880885fe7cceeb8bf469491299083/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/b10880885fe7cceeb8bf469491299083/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/37edacd77ddb0ae1073e730dc32db1df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/37edacd77ddb0ae1073e730dc32db1df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/c8ac2a9f63bd9602542841f7a56b0ad6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/c8ac2a9f63bd9602542841f7a56b0ad6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/87f2bf72807b00f668ab99d37eace935/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/87f2bf72807b00f668ab99d37eace935/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/e922159bdc986255066ef69939d22df8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/e922159bdc986255066ef69939d22df8/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/36f57e2d39658ad51826da37df8a1d8f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/36f57e2d39658ad51826da37df8a1d8f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/284db428ff6ac400327dcc3c45abfb7c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/284db428ff6ac400327dcc3c45abfb7c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/acd3745d68a423214fb71b722c5ab520/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/acd3745d68a423214fb71b722c5ab520/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/8804397b2076e6d0d49cb47ce6c55f92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/8804397b2076e6d0d49cb47ce6c55f92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/badc233fdf7e5b1885df0c423165a97e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/badc233fdf7e5b1885df0c423165a97e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/54fb23af7a5ee324d02af7ed0c1044bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/54fb23af7a5ee324d02af7ed0c1044bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/4dcda9b0586b55d985ddfc410d44f341/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/4dcda9b0586b55d985ddfc410d44f341/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/c62b79104a3733afd0fa52bbd1d58828/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/c62b79104a3733afd0fa52bbd1d58828/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/030a4c7c627cec3fcddb02f38620100d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/030a4c7c627cec3fcddb02f38620100d/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/fa6142ae190133fed5a6f3da5d965070/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/ideasoft/.gradle/caches/transforms-2/files-2.1/fa6142ae190133fed5a6f3da5d965070/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/ideasoft/workspace/training-projects/react-native-ml/android/app/src/debug/AndroidManifest.xml:5:22-75
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:58
+	android:resource
+		ADDED from [:react-native-image-picker] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-74
+uses-feature#0x00020000
+ADDED from [:expo-gl] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-gl/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-13:36
+	android:glEsVersion
+		ADDED from [:expo-gl] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-gl/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-41
+	android:required
+		ADDED from [:expo-gl] /Users/ideasoft/workspace/training-projects/react-native-ml/node_modules/expo-gl/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-33
